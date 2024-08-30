@@ -6,3 +6,7 @@ This repository contains several tests on different LangChain components. In the
 - **Conversational Chatbot**: Creation of a simple Chatbot with message history and session in a Jupyter Notebook
 - **Vector Stores and Retrievers**: Use of Vector stores and retriever to look for textual information in a vector database.
 - **Simple Agent**: Build a Simple ReAct Agent with Tavily Search tool. Adding memory to agent to remember past interactions.
+
+
+- **LangGraph**: Contains Tutorials and Tests specific to LangGraph.
+    - **Intro to LangGraph**: Introduction to LangGraph where an Agentic ChatBot is built
